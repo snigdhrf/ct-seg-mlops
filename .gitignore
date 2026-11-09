@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+local_data/
+local_ml/
+*.nii.gz
+*.npz
+mlruns/
+.DS_Store
